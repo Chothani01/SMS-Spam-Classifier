@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier
-
+This is a sms spam classifier application, which can predict given message is spam or not.
 For use of this application,[Click here](https://sms-spam-classifier-princechothani.streamlit.app/)
 
 Here we done by use of this steps,
